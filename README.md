@@ -1,4 +1,4 @@
-# Hi there! I'm Eduardo Lopes 😄
+# Hi there! I'm Eduardo Lopes 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eduardolopesPDA&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
