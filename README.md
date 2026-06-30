@@ -1,5 +1,9 @@
 # Hi there! I'm Eduardo Lopes 
 
+Sou um desenvolvedor Full Stack em formação, com foco em aplicações web utilizando JavaScript, TypeScript, React e Node.js. Possuo uma sólida base prática desenvolvida através de uma formação de mais de 200 horas de foco em programação, com ênfase na construção de interfaces responsivas, consumo de APIs e estruturação de rotas.
+
+Tenho vivência no desenvolvimento de projetos colaborativos utilizando Git e GitHub, aplicando conceitos fundamentais de engenharia de software e metodologias ágeis. Prezo muito pela escrita de código limpo, legível e de fácil manutenção. Além disso, possuo forte afinidade com debugging, identificando erros em códigos e arquitetando a melhor solução técnica.
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eduardolopesPDA&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
   <a href="https://www.linkedin.com/in/eduardo-lopesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
