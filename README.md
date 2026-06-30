@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! I'm Eduardo Lopes 😄
 
-<!--
-**eduardolopesPDA/eduardolopesPDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=eduardolopesPDA&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
+  <a href="https://www.linkedin.com/in/eduardo-lopesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Atualmente cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** pela UniFECAF.
+- 📚 Dedicado aos estudos: além da faculdade, concluí uma formação em programação com **mais de 200 horas de foco prático**.
+- 🔧 Tecnologias com as quais trabalho: **JavaScript, TypeScript, React e Node.js**.
+- 🐛 Minha paixão: Sou fascinado por tecnologia e adoro o desafios! Principalmente o de "caçar bugs" pelos códigos
+---
+
+## Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+## Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardolopesPDA&show_icons=true&theme=default&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolopesPDA&layout=compact&theme=default" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopesPDA&theme=default" alt="GitHub Streak" width="97%" />
+</p>
