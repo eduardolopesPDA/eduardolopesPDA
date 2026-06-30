@@ -5,7 +5,6 @@ Sou um desenvolvedor Full Stack em formação, com foco em aplicações web util
 Tenho vivência no desenvolvimento de projetos colaborativos utilizando Git e GitHub, aplicando conceitos fundamentais de engenharia de software e metodologias ágeis. Prezo muito pela escrita de código limpo, legível e de fácil manutenção. Além disso, possuo forte afinidade com debugging, identificando erros em códigos e arquitetando a melhor solução técnica.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eduardolopesPDA&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
   <a href="https://www.linkedin.com/in/eduardo-lopesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
