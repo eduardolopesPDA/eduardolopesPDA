@@ -32,11 +32,9 @@ Tenho vivência no desenvolvimento de projetos colaborativos utilizando Git e Gi
 
 ## Github Stats
 
-## Github Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardolopesPDA&show_icons=true&theme=default&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolopesPDA&layout=compact&theme=default" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=eduardolopesPDA&show_icons=true&theme=default&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=eduardolopesPDA&layout=compact&theme=default" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
