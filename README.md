@@ -1,19 +1,16 @@
-# Hi there! I'm Eduardo Lopes 
-
-Sou um desenvolvedor Full Stack em formação, com foco em aplicações web utilizando JavaScript, TypeScript, React e Node.js. Possuo uma sólida base prática desenvolvida através de uma formação de mais de 200 horas de foco em programação, com ênfase na construção de interfaces responsivas, consumo de APIs e estruturação de rotas.
-
-Tenho vivência no desenvolvimento de projetos colaborativos utilizando Git e GitHub, aplicando conceitos fundamentais de engenharia de software e metodologias ágeis. Prezo muito pela escrita de código limpo, legível e de fácil manutenção. Além disso, possuo forte afinidade com debugging, identificando erros em códigos e arquitetando a melhor solução técnica.
+# Hi there! I'm Eduardo Lopes 😄
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=eduardolopesPDA&label=PROFILE+VIEWS&color=ff79c6&style=flat-square" alt="Views" />
   <a href="https://www.linkedin.com/in/eduardo-lopesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## About me
+## About me 
 
-- 🎓 Atualmente cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** pela UniFECAF.
-- 📚 Dedicado aos estudos: além da faculdade, concluí uma formação em programação com **mais de 200 horas de foco prático**.
-- 🔧 Tecnologias com as quais trabalho: **JavaScript, TypeScript, React e Node.js**.
-- 🐛 Minha paixão: Sou fascinado por tecnologia e adoro o desafios! Principalmente o de "caçar bugs" pelos códigos
+Sou um **desenvolvedor Full Stack** em formação, com foco em aplicações web utilizando **JavaScript, TypeScript, React e Node.js**. Possuo uma sólida base prática desenvolvida através de uma formação de **mais de 200 horas de foco em programação**, com ênfase na construção de interfaces responsivas, consumo de APIs e estruturação de rotas.
+
+Tenho vivência no desenvolvimento de projetos colaborativos utilizando **Git e GitHub**, aplicando conceitos fundamentais de engenharia de software e metodologias ágeis. Prezo muito pela escrita de **código limpo, legível e de fácil manutenção**. Além disso, possuo afinidade com ***debugging***, identificando erros em códigos e arquitetando a melhor solução técnica.
+
 ---
 
 ## Languages and Tools
@@ -32,10 +29,10 @@ Tenho vivência no desenvolvimento de projetos colaborativos utilizando Git e Gi
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=eduardolopesPDA&show_icons=true&theme=default&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=eduardolopesPDA&layout=compact&theme=default" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardolopesPDA&show_icons=true&theme=dracula&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardolopesPDA&layout=compact&theme=dracula" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopesPDA&theme=default" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopesPDA&theme=dracula" width="97%" alt="GitHub Streak" />
 </p>
