@@ -28,11 +28,13 @@
 
 ## Github Stats
 
+## Github Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardolopesPDA&show_icons=true&theme=default&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolopesPDA&layout=compact&theme=default" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardolopesPDA&show_icons=true&theme=default&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolopesPDA&layout=compact&theme=default" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopesPDA&theme=default" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopesPDA&theme=default" width="97%" alt="GitHub Streak" />
 </p>
