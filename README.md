@@ -29,10 +29,5 @@ Tenho vivência no desenvolvimento de projetos colaborativos utilizando **Git e 
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardolopesPDA&show_icons=true&theme=dracula&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardolopesPDA&layout=compact&theme=dracula" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopesPDA&theme=dracula" width="97%" alt="GitHub Streak" />
 </p>
