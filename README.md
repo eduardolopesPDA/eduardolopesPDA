@@ -14,7 +14,7 @@
 
 </div>
 
-## 🎸 Sobre mim
+##  Sobre mim
 
 Sou um **desenvolvedor Full Stack** em formação, com foco em aplicações web utilizando **JavaScript, TypeScript, React e Node.js**. Possuo uma sólida base prática desenvolvida através de uma formação de **mais de 200 horas de foco em programação**, com ênfase na construção de interfaces responsivas, consumo de APIs e estruturação de rotas.
 
@@ -37,7 +37,7 @@ Tenho vivência no desenvolvimento de projetos colaborativos utilizando **Git e 
 
 ---
 
-## 🔊 Github Stats
+##  Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopesPDA&theme=dracula" width="97%" alt="GitHub Streak" />
