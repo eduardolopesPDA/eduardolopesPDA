@@ -6,14 +6,6 @@
   <a href="https://www.linkedin.com/in/eduardo-lopesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<div align="center">
-
-```text
-▂▂▃▅▆▇█▇▆▅▃▂▂▃▄▅▆▇█▆▅▄▃▂▁▂▃▅▇██▇▅▃▂▁▂▄▆█▆▄▂
-```
-
-</div>
-
 ## 🎸 Sobre mim
 
 Sou um **desenvolvedor Full Stack** em formação, com foco em aplicações web utilizando **JavaScript, TypeScript, React e Node.js**. Possuo uma sólida base prática desenvolvida através de uma formação de **mais de 200 horas de foco em programação**, com ênfase na construção de interfaces responsivas, consumo de APIs e estruturação de rotas.
