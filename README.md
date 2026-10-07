@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/eduardo-lopesdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## 🎸 Sobre mim
+## Sobre mim
 
 Sou um **desenvolvedor Full Stack** em formação, com foco em aplicações web utilizando **JavaScript, TypeScript, React e Node.js**. Possuo uma sólida base prática desenvolvida através de uma formação de **mais de 200 horas de foco em programação**, com ênfase na construção de interfaces responsivas, consumo de APIs e estruturação de rotas.
 
@@ -29,7 +29,7 @@ Tenho vivência no desenvolvimento de projetos colaborativos utilizando **Git e 
 
 ---
 
-## 🔊 Github Stats
+## Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardolopesPDA&theme=dracula" width="97%" alt="GitHub Streak" />
